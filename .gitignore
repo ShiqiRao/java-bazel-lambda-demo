@@ -1,0 +1,8 @@
+/java-bazel-lambda-demo.iml
+/.
+/.ijwb/
+/.idea/
+/bazel-bin/
+/bazel-java-bazel-lambda-demo/
+/bazel-out/
+/bazel-testlogs/
